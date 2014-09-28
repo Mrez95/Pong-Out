@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=normalPlayers
+comment0.target=PongOut(int)
+comment0.text=\r\n\ The\ constructor\ for\ the\ world.\r\n
+comment1.params=
+comment1.target=void\ nextPattern()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=id
+comment3.target=void\ addScore(int)
+comment4.params=a
+comment4.target=void\ addScore(greenfoot.Actor)
+comment5.params=a
+comment5.target=void\ removeObject(greenfoot.Actor)
+comment6.params=
+comment6.target=void\ determineWinner()
+comment7.params=
+comment7.target=boolean\ gameOver()
+comment8.params=
+comment8.target=void\ explosions()
+numComments=9

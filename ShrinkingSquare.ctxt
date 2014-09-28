@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=size\ col\ shrinkingSpeed\ delay
+comment0.target=ShrinkingSquare(int,\ java.awt.Color,\ int,\ int)
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Shrinks\ itself\ until\ there\ is\ no\ more,\ than\ it\ dissapears\r\n
+comment2.params=
+comment2.target=void\ shrink()
+numComments=3

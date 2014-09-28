@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=player
+comment0.target=Paddle(int)
+comment0.text=\r\n\ The\ constructor\ for\ Paddle.\ Creates\ a\ white\ paddle\ 10x50.\r\n\ @param\ player\ This\ specifies\ what\ player\ it\ is.\ It\ can\ only\ be\ 1-2.\r\n\ 1\ is\ left,\ 2\ is\ right.\r\n
+comment1.params=
+comment1.target=void\ createControls()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ The\ act\ method\ for\ Paddle\r\n
+comment3.params=
+comment3.target=void\ waitForBall()
+comment4.params=dist
+comment4.target=void\ move(int)
+comment5.params=
+comment5.target=void\ newBall()
+comment6.params=
+comment6.target=boolean\ haveBall()
+comment7.params=
+comment7.target=void\ releaseBall()
+comment8.params=
+comment8.target=int\ getID()
+numComments=9

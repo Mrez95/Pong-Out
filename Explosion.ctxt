@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=x\ y\ w
+comment0.target=void\ createExplosion(int,\ int,\ greenfoot.World)
+comment1.params=x\ y\ w
+comment1.target=void\ createColorfulExplosion(int,\ int,\ greenfoot.World)
+comment2.params=
+comment2.target=java.awt.Color\ randomColor()
+numComments=3

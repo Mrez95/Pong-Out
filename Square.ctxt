@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=size\ col
+comment0.target=Square(int,\ java.awt.Color)
+comment0.text=\r\n\ The\ constructor\ for\ a\ Square\ actor\r\n\ @param\ size\ The\ length\ of\ each\ side\r\n\ @param\ col\ The\ color\ of\ the\ Square\r\n
+comment1.params=size\ col
+comment1.target=void\ changeShape(int,\ java.awt.Color)
+numComments=2

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=startingScore
+comment0.target=ScoreCounter(int)
+comment1.params=
+comment1.target=ScoreCounter()
+comment2.params=
+comment2.target=void\ updateImage()
+comment3.params=n
+comment3.target=void\ add(int)
+comment4.params=n
+comment4.target=void\ subtract(int)
+comment5.params=n
+comment5.target=void\ set(int)
+comment6.params=
+comment6.target=int\ getScore()
+numComments=7

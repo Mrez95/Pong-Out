@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=size\ col\ shrinkingSpeed\ delay
+comment0.target=TransparentShrinking(int,\ java.awt.Color,\ int,\ int)
+comment1.params=
+comment1.target=void\ shrink()
+comment2.params=
+comment2.target=java.awt.Color\ moreTransparent()
+numComments=3

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=width\ height\ col
+comment0.target=Rectangle(int,\ int,\ java.awt.Color)
+comment0.text=\r\n\ The\ constructor\ for\ the\ rectangle\ class.\r\n\ @param\ width\ The\ width\ of\ the\ Rectangle\r\n\ @param\ height\ The\ height\ of\ the\ Rectangle\r\n\ @param\ col\ The\ color\ of\ the\ Rectangle\r\n
+comment1.params=width\ height\ col
+comment1.target=void\ changeShape(int,\ int,\ java.awt.Color)
+comment1.text=\r\n\ Creates\ a\ rectangle\ image\ for\ the\ actor.\ This\ method\ can\ be\ called\ multiple\ times\r\n\ @param\ width\ The\ width\ of\ the\ image\r\n\ @param\ height\ The\ height\ of\ the\ image\r\n\ @param\ col\ The\ color\ of\ the\ image\r\n
+numComments=2

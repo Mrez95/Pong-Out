@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=rotation\ size
+comment0.target=ExplosionParticle(int,\ int)
+comment1.params=rotation\ size\ col
+comment1.target=ExplosionParticle(int,\ int,\ java.awt.Color)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ move()
+comment4.params=
+comment4.target=void\ fall()
+numComments=5

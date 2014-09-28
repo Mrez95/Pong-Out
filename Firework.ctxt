@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Firework(int,\ int)
+comment1.params=
+comment1.target=void\ setStartLocation()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ makeTrail()
+comment3.text=\r\n\ Makes\ a\ trail\ behind\ each\ ball\r\n
+numComments=4

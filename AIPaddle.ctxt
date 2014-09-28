@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AIPaddle()
+comment1.params=id
+comment1.target=AIPaddle(int)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ The\ act\ method\ for\ AIPaddle.\ Releases\ a\ ball\ if\ it\ has\ one,\r\n\ moves\ up\ if\ the\ closest\ ball\ is\ above\ it,\r\n\ moves\ down\ if\ the\ closest\ ball\ is\ below\ it.\r\n
+comment3.params=
+comment3.target=void\ moveTowardsClosest()
+comment3.text=\r\n\ Moves\ towards\ the\ closest\ ball\r\n
+comment4.params=
+comment4.target=void\ determineBeingAttacked()
+comment4.text=\r\n\ Determines\ if\ the\ AI\ paddle\ is\ being\ "attacked"\ (a\ ball\ is\ coming\r\n\ towards\ it)\r\n
+comment5.params=
+comment5.target=void\ findClosestBall()
+comment5.text=\r\n\ Finds\ the\ closest\ ball\ towards\ the\ AIPaddle\ and\ will\ store\ it\ in\r\n\ closestBall\r\n
+comment6.params=ball
+comment6.target=void\ findClosestAttackingBall(Ball)
+comment6.text=\r\n\ Finds\ the\ closest\ ball\ that\ is\ not\ the\ one\ provided.\r\n
+comment7.params=
+comment7.target=void\ releaseBall()
+comment8.params=
+comment8.target=void\ newBall()
+numComments=9
